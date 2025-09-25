@@ -1,4 +1,4 @@
-<img src="readme/KAUST (Email Header).png" alt="KAUST Logo" align="center">
+<img src="Readme/KAUST (Email Header).png" alt="KAUST Logo" align="center">
 
 
 My repository for organizing all resources, notes, and code to prepare for the KAUST AI program.
