@@ -2,7 +2,7 @@
 
 # KAUST AI Preparation Repository
 
-This repository organizes all **resources, notes, and code** to prepare for the **KAUST AI program**. It serves as a **support tool** — a simple way to keep everything in one place for easier review and structured studying.
+This repository organizes all **resources, notes, and code** to prepare for the **KAUST AI program**. It serves as a **support tool**, a simple way to keep everything in one place for easier review and structured studying.
 
 Think of it as a companion to guide you through the stages: **Stage 1 → Stage 2 → Stage 3**.
 
