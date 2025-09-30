@@ -1,28 +1,29 @@
+<img src="resources/KAUST (Email Header).png" alt="KAUST Logo" align="center">
 <img src="resources/KAUST (Email Header).png" alt="KAUST Logo" align="center">  
 
 # KAUST AI Preparation Repository
 
-This repository organizes all **resources, notes, and code** to prepare for the **KAUST AI program**. It serves as a **support tool** , a simple way to keep everything in one place for easier review and structured studying.
+This repository organizes all **resources, notes, and code** to prepare for the **KAUST AI program**. It serves as a **support tool** — a simple way to keep everything in one place for easier review and structured studying.
 
-Think of it as a companion to guide you through the stages: **Stage 0 → Stage 1 → Stage 2**.
+Think of it as a companion to guide you through the stages: **Stage 1 → Stage 2 → Stage 3**.
 
 ---
 
 ## 📖 Study Plan Overview
 
-* **Stage 0** – Online Coursera Courses *(Foundations: Python, Math, Intro AI)*
-* **Stage 1** – Introduction *(Core concepts, ML basics, coding practice)*
-* **Stage 2** – Advanced *(Deeper AI, CNNs, Neural Nets, Applications)*
+* **Stage 1** – Online Coursera Courses *(Foundations: Python, Math, Intro AI)*
+* **Stage 2** – Introduction *(Core concepts, ML basics, coding practice)*
+* **Stage 3** – Advanced *(Deeper AI, CNNs, Neural Nets, Applications)*
 
 Each stage includes:
 
-* **Preparing** : What to do before starting.
-* **In-Stage Focus** : How to study during the stage.
-* **Pre-Exam Day** : How to revise and test yourself.
+* **Preparing**: What to do before starting.
+* **In-Stage Focus**: How to study during the stage.
+* **Pre-Exam Day**: How to revise and test yourself.
 
 ---
 
-## 🟢 Stage 0: Online Coursera Courses
+## 🟢 Stage 1: Online Coursera Courses
 
 ### Goal
 
@@ -35,11 +36,13 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
   * [AI for Everyone – Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
   * [Machine Learning – Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [Deep Learning Specialization (Course 1)](https://www.coursera.org/learn/neural-networks-deep-learning)
+
 * Learn Python basics:
 
   * [Datacamp – Introduction to Python](https://www.datacamp.com)
   * [W3Schools Python](https://www.w3schools.com/python/default.asp)
   * [Python in Arabic (YouTube)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+
 * Strengthen Math:
 
   * [Statistics & Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLkoGK1Ws-Ci3xqKAoRXJjISZYtJ62hAKI)
@@ -58,7 +61,7 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
 
 ---
 
-## 🟡 Stage 1: Introduction
+## 🟡 Stage 2: Introduction
 
 ### Goal
 
@@ -69,7 +72,9 @@ Master **core AI/ML concepts** through lectures, slides, and coding practice.
 * Explore stage materials:
 
   * [KA_Intro_Stage_2025](https://drive.google.com/drive/folders/1XfxW9FErw94Cwm8TU87qBsSkcJUazRUR?usp=drive_link)
+  * [Stage 2 Resources by ICE Ninja](https://ice-ninja.notion.site/ice-kaust-stage2-resources)
   * [Mozn’s KAUST AI Guide](https://tender-dimple-1b7.notion.site/KAUST-AI-Introduction-16a57384eb458031858ffe777c785ab6)
+
 * Helpful YouTube: [Mohammed’s Channel](https://www.youtube.com/@mohammad2012191)
 
 ### In-Stage Focus
@@ -91,7 +96,7 @@ Master **core AI/ML concepts** through lectures, slides, and coding practice.
 
 ---
 
-## 🔴 Stage 2: Advanced
+## 🔴 Stage 3: Advanced
 
 ### Goal
 
@@ -102,8 +107,8 @@ Dive deeper into **advanced AI, CNN, and Neural Networks** with hands-on practic
 * Stage materials:
 
   * [KA_Advanced_Stage_2025](https://drive.google.com/drive/folders/1cfat8NB9vVc9YAr5X2fN7WWk0SRakd8D?usp=sharing)
-  * [Stage 2 Resources by ICE Ninja](https://ice-ninja.notion.site/ice-kaust-stage2-resources)
   * [Stage 3 Resources by ICE Ninja](https://ice-ninja.notion.site/ice-kaust-stage3-resources)
+
 * Helpful YouTube: [Mohammed’s Channel](https://www.youtube.com/@mohammad2012191)
 
 ### In-Stage Focus
@@ -130,4 +135,4 @@ Dive deeper into **advanced AI, CNN, and Neural Networks** with hands-on practic
 
 ✨ This README is designed to keep your learning structured and consistent across all stages :)
 
-made by:AbdoulellahMoj
+Made by: **AbdulellahMoj**
