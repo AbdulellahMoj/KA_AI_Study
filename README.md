@@ -126,8 +126,6 @@ Dive deeper into **advanced AI, CNN, and Neural Networks** with hands-on practic
 
 ## 📚 Extra Resources
 
-* Stage 2 Content: [Google Drive Link](https://drive.google.com/drive/folders/1Nc4Aw7riS8F7cNFO5WTP4D7OvXKINR3Q)
-* Stage 3 Content: [Google Drive Link](https://drive.google.com/drive/folders/1zqs0sEIc1xk3pa6g2k2rgU2gbL4JmhLm)
 * GitHub Repo: [Introduction AI Examples](https://github.com/A-ELYAAGOUBI/Introduction-AI/tree/main)
 
 ---
