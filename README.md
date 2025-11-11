@@ -40,6 +40,8 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
   * [Machine Learning – Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [Deep Learning Specialization (Course 1)](https://www.coursera.org/learn/neural-networks-deep-learning)
 
+
+
 * Learn Python basics:
 
   * [Datacamp – Introduction to Python](https://www.datacamp.com)
