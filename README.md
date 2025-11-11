@@ -31,7 +31,11 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
 ### Preparing
 
 * Finish online Coursera courses:
+  
+  * [Python 3 Programming Specialization — University of Michigan](https://www.coursera.org/specializations/python-3-programming)
+  * [Mathematics for Machine Learning and Data Science Specialization — DeepLearning.AI](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 
+> Useful online Coursera courses "Not Required":
   * [AI for Everyone – Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
   * [Machine Learning – Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [Deep Learning Specialization (Course 1)](https://www.coursera.org/learn/neural-networks-deep-learning)
