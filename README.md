@@ -47,10 +47,13 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
   * [Datacamp – Introduction to Python](https://www.datacamp.com)
   * [W3Schools Python](https://www.w3schools.com/python/default.asp)
   * [Python in Arabic (YouTube)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+  * [Mohammed’s Python Refresher](https://youtu.be/Qnyb2bZSY3Q?si=oLfsKA-S8f443eYY)
+  * [Mohammed’s EDA & Data Cleaning](https://youtu.be/ObbQYHj_-Ow?si=_Q6l925CmAbpSaEE)
 
 * Strengthen Math:
 
   * [Statistics & Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLkoGK1Ws-Ci3xqKAoRXJjISZYtJ62hAKI)
+  * [Mohammed’s Math Revision](https://youtu.be/LOA4tkvHsCQ?si=P6-EIMV7kHZWAZdH)
 
 ### In-Stage Focus
 
