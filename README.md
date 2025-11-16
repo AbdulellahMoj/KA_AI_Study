@@ -50,6 +50,7 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
 
   * [Statistics & Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLkoGK1Ws-Ci3xqKAoRXJjISZYtJ62hAKI)
   * [Mohammed’s Math Revision](https://youtu.be/LOA4tkvHsCQ?si=P6-EIMV7kHZWAZdH)
+  * [Mohammed’s Math File](https://x.com/mohammad2012191/status/1990083174202831073?t=AV9GI_Wjb28aiW-nQjIWtQ&s=19)
 
 ### In-Stage Focus
 
