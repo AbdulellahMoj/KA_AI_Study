@@ -63,7 +63,7 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
 * Revisit the **Drag old videos** for quick review: [Drag Helping Materials](https://www.youtube.com/playlist?list=PLpgYpVGJQI7JGhoNMEquki6GZs6Jonnq8)
 * Review personal notes and highlight weak spots.
 * Test yourself with practice problems.
-* [Mock Questions by @AbdlrhmanDev](kaustacademy-ai.vercel.app)
+* [Mock Questions by @AbdlrhmanDev](https://x.com/AbdlrhmanDev/status/1990483649905766536?t=lUs-DTLM1_PsZ8Ex_Oft4g&s=19)
 
 ---
 
