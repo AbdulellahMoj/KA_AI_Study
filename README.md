@@ -114,6 +114,7 @@ Dive deeper into **advanced AI, CNN, and Neural Networks** with hands-on practic
 
   * [KA_Advanced_Stage_2025](https://drive.google.com/drive/folders/1cfat8NB9vVc9YAr5X2fN7WWk0SRakd8D?usp=sharing)
   * [Stage 3 Resources by ICE Ninja](https://ice-ninja.notion.site/ice-kaust-stage3-resources)
+  * [Mozn’s KAUST AI Guide](https://www.notion.so/KAUST-AI-Advanced-18857384eb458029a47acee59cebbe3f?pvs=4)
 
 * Helpful YouTube: [Mohammed’s Channel](https://www.youtube.com/@mohammad2012191)
 
