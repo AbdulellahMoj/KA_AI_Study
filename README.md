@@ -128,12 +128,14 @@ Dive deeper into **advanced AI, CNN, and Neural Networks** with hands-on practic
 * Revise notes and worked examples.
 * Review Milanote mock questions: [Mock Qs + Resources](https://app.milanote.com/1TuYwK1nBy5A4k?p=Gb8TNI0MMIw)
 * Focus on weak areas and practice under timed conditions.
+* [Mock Questions by @@iimoh9x](https://iimoham.github.io/KAUST-Quiz-Website/)
 
 ---
 
 ## 📚 Extra Resources
 
 * GitHub Repo: [Introduction AI Examples](https://github.com/A-ELYAAGOUBI/Introduction-AI/tree/main)
+* [Mohammed’s AI RoadMap](https://x.com/mohammad2012191/status/1986942359616053602?t=_QTnWefOlN21H6rndx_hUQ&s=19)
 
 > Useful online Coursera courses:
   * [AI for Everyone – Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
