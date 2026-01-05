@@ -68,43 +68,53 @@ Build a foundation in **Python, Math, and AI basics** before moving into KAUST m
 * [Mock Questions by @AbdlrhmanDev](https://x.com/AbdlrhmanDev/status/1990483649905766536?t=lUs-DTLM1_PsZ8Ex_Oft4g&s=19)
 
 ---
-
 ## 🟡 Stage 2: Introduction
 
 ### Goal
 
-Master **core AI/ML concepts** through lectures, slides, and coding practice.
+Build a **strong foundation in Artificial Intelligence and Machine Learning**, with emphasis on **model intuition, data-centric thinking, and practical decision-making**, through lectures, slides, and hands-on coding.
 
 ### Preparing
 
-* Explore stage materials:
-
+* Explore stage materials "old 2025 slids":
   * [KA_Intro_Stage_2025](https://drive.google.com/drive/folders/1XfxW9FErw94Cwm8TU87qBsSkcJUazRUR?usp=drive_link)
   * [Stage 2 Resources by ICE Ninja](https://ice-ninja.notion.site/ice-kaust-stage2-resources)
   * [Mozn’s KAUST AI Guide](https://tender-dimple-1b7.notion.site/KAUST-AI-Introduction-16a57384eb458031858ffe777c785ab6)
 
-* Helpful YouTube: [Mohammed’s Channel](https://www.youtube.com/@mohammad2012191)
+* Helpful YouTube reference:
+  * [Mohammed’s Channel](https://www.youtube.com/@mohammad2012191)
 
 ### In-Stage Focus
 
-* Watch lectures and take detailed notes.
-* Practice coding exercises alongside theory.
-* Review slides on:
-
-  * Linear Regression
-  * Logistic Regression
-  * Neural Networks
-  * Machine Learning Applications
+* Understand **how Machine Learning differs from traditional programming** and how the ML pipeline works end-to-end.
+* Analyze **model performance and failures** using loss curves and appropriate evaluation metrics.
+* Apply **data preprocessing techniques**:
+  * Data cleaning, scaling, and feature selection  
+  * Proper data splitting (e.g., Stratified K-Fold)
+* Explore the **Machine Learning model landscape**:
+  * Linear, distance-based, kernel-based, and tree-based models  
+  * Model intuition, advantages, and limitations  
+  * Ensemble methods: Bagging (Random Forest) vs. Boosting (Gradient Boosting)
+* Build **Deep Learning fundamentals**:
+  * Neural network components (neurons, layers, weights)
+  * Forward pass and backpropagation
+  * Optimizers (SGD, Momentum, Adam)
+* Understand **learning paradigms and representation learning**:
+  * Supervised vs. Unsupervised learning
+  * K-Means clustering
+  * Dimensionality reduction (PCA, t-SNE)
+  * Autoencoders for denoising, anomaly detection, and representation learning
 
 ### Pre-Exam Day
 
-* Focus on summary slides.
-* Practice old exam files.
-* Use mock questions and group discussions for revision.
+* Review **summary and concept slides**, focusing on intuition over memorization.
+* Practice **previous exams and mock questions**.
+* Revisit common failure cases and algorithm trade-offs.
+* Use **group discussions** to reinforce understanding and explain concepts clearly.
 
 ---
 
-## 🔴 Stage 3: Advanced
+## 🔴 Stage 3: Advanced "will be updated"
 
 ### Goal
 
