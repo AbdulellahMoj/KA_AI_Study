@@ -6,6 +6,8 @@ This repository organizes all **resources, notes, and code** to prepare for the 
 
 Think of it as a companion to guide you through the stages: **Stage 1 → Stage 2 → Stage 3**.
 
+> NOTE: content and slides are the 2025 version, will be updated soon..
+
 ---
 
 ## 📖 Study Plan Overview
