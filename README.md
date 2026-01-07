@@ -77,7 +77,7 @@ Build a **strong foundation in Artificial Intelligence and Machine Learning**, w
 ### Preparing
 
 * Explore stage materials:
-  * [KA_Intro_Stage_2026](https://github.com/KAUST-Academy/KA-Artificial-Intelligence-Courses/tree/main/Lectures/Introduction%20to%20ML) file name: "Stage_2_2026_Day#.pdf"
+  * [KA_Intro_Stage_2026](https://github.com/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/tree/main/Slides) file name: "Stage_2_2026_Day#.pdf"
   * [Stage 2 Guide - 2026 by YARA](https://shore-age-431.notion.site/Stage-2-Guide-2026-2ca1fd64c439807984e0d1c490b9b38b?source=copy_link)
   * [KA_Intro_Stage_2025 OLD](https://drive.google.com/drive/folders/1XfxW9FErw94Cwm8TU87qBsSkcJUazRUR?usp=drive_link)
   * [Mozn’s KAUST AI Guide](https://tender-dimple-1b7.notion.site/KAUST-AI-Introduction-16a57384eb458031858ffe777c785ab6)
